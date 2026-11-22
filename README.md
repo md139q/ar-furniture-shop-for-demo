@@ -23,9 +23,11 @@ Try the live production version directly on your Android device:
 
 * **Full HD Video Walkthrough & Media Folder:** [View App Tutorial & Demo Files on Google Drive](https://drive.google.com/drive/folders/16O9vXJVBjrxLZCtnidkgInHdbCpLnSzH)
 
-<img width="745" height="388" alt="ss3" src="https://github.com/user-attachments/assets/2e62fe99-42f6-4975-966f-664f127cb0a1" />
-<img width="361" height="774" alt="ss2" src="https://github.com/user-attachments/assets/32589c0f-fc05-41a5-a677-d57039443245" />
-<img width="345" height="702" alt="ss1" src="https://github.com/user-attachments/assets/d24d0e79-e32c-49b7-b479-34949d827364" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e62fe99-42f6-4975-966f-664f127cb0a1" width="18%" />
+  <img src="https://github.com/user-attachments/assets/32589c0f-fc05-41a5-a677-d57039443245" width="18%" />
+  <img src="https://github.com/user-attachments/assets/d24d0e79-e32c-49b7-b479-34949d827364" width="18%" />
+</p>
 
 ---
 
