@@ -16,13 +16,14 @@ Try the live production version directly on your Android device:
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download_App-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lanica.app)
 
 * **Direct Link:** [View on Google Play Store](https://play.google.com/store/apps/details?id=com.lanica.app)
-* **Demo Credentials for Testing:** *(Add a test email/password here if login is required, or delete this bullet if guest browsing is open)*
 
 ---
 
-## 🎥 Live Demo & Screenshots
+## 🎥 Live Demo & Video Walkthrough
 
-> **Drag and drop** your screen-recorded `.mp4` walkthrough video and 4–6 UI screenshots right here in the GitHub editor!
+* **Full HD Video Walkthrough & Media Folder:** [View App Tutorial & Demo Files on Google Drive](https://drive.google.com/drive/folders/16O9vXJVBjrxLZCtnidkgInHdbCpLnSzH)
+
+> *(Optional)* Drag and drop 3–4 UI screenshots directly below this line in the GitHub editor so visitors see instant previews on the page!
 
 ---
 
