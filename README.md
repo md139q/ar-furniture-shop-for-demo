@@ -9,9 +9,20 @@ A production-ready cross-platform e-commerce mobile application that lets custom
 
 ---
 
+## 📱 Live App on Google Play Store
+
+Try the live production version directly on your Android device:
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download_App-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)
+
+* **Direct Link:** [View on Google Play Store](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)
+* **Demo Credentials for Testing:** *(Add a test email/password here if login is required, or delete this bullet if guest browsing is open)*
+
+---
+
 ## 🎥 Live Demo & Screenshots
 
-> **Tip:** Drag and drop your screen-recorded `.mp4` walkthrough video and 4–6 UI screenshots right here in the GitHub editor!
+> **Drag and drop** your screen-recorded `.mp4` walkthrough video and 4–6 UI screenshots right here in the GitHub editor!
 
 ---
 
@@ -20,24 +31,4 @@ A production-ready cross-platform e-commerce mobile application that lets custom
 * **2D-to-3D Asset Pipeline:** Supports MeshyAI-generated 3D furniture models alongside standard product galleries.
 * **Full E-Commerce Flow:** Category browsing, product customization, real-time shopping cart, order tracking, and automated inventory sync via Cloud Firestore.
 * **Authentication & Security:** Firebase Authentication with role-based Firestore Security Rules and Cloud Functions support.
-* **Payment Gateway Ready:** Pre-structured webhook/checkout integration ready for HitPay, PayMongo, or Stripe.
-* **Cross-Platform Build Ready:** Configured for Android, iOS (via Codemagic CI/CD), and Progressive Web App (PWA) deployment.
-
----
-
-## 📱 Try the Demo App (Android)
-Want to test the app on your Android phone before buying the source code?
-1. Go to the **[Releases](https://github.com/md139q/ar-furniture-shop-for-demo/releases)** section on the right sidebar.
-2. Download the latest **`ar-furniture-shop-demo.apk`** and install it on your device.
-
----
-
-## 💼 Get the Full Source Code (Commercial & Customizable)
-Looking to launch your own AR e-commerce store, customize the UI, or use this architecture for a client project? The complete, clean Flutter + Firebase codebase is available for purchase.
-
-**What's included in the full package:**
-* Full, clean Flutter source code (`lib/`, `android/`, `ios/`, `web/`, `functions/`)
-* Local AR plugin configuration (`ar_flutter_plugin`) & Codemagic iOS build setup
-* Pre-configured `.env.example` and step-by-step setup documentation (`README.md`) to connect your own Firebase project and payment gateway in minutes
-
-📩 **To purchase or request a live walkthrough:** Email **md139q@gmail.com** with the subject *"AR Furniture Shop Source Code Inquiry"*.
+* **Payment Gateway Ready:** Pre-structured webhook/checkout
